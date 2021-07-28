@@ -4,7 +4,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Rohan Kokkula | Portfolio",
+  title: "Riya Soni | Portfolio",
   description:
     "A Data Science practitioner who thrives to leverage startups with AI based solutions with a blend of UI/UX",
   og: {
